@@ -264,7 +264,7 @@ Euclidean distance and cosine similarity are both metrics used to measure the si
 - ### React Native Deployment
 | Steps                              | Commands                                                                                                 |
 |------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Clone the repository              | `git clone https://github.com/jagadeeshm007/Movie_Recommendation_Engine.git`                              |
+| Clone the repository              | `git clone https://github.com/jagadeeshm007/Movie_Recommendation_System.git`                              |
 | Navigate to the app directory     | `cd ./Movie_Recommendation_Engine/GUI/Movie_Recommendation_Search_App`                                   |
 | Create a `.env` file              | `echo EXPO_API_KEY=YOUR_API_KEY > .env`                                                                  |
 | Install dependencies              | `npm install`                                                                                             |
@@ -273,7 +273,7 @@ Euclidean distance and cosine similarity are both metrics used to measure the si
 - ### Python Testing
 | Steps                              | Commands                                                                                                 |
 |------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Execute the Python script          | `python Movie_Recommendation_Engine.py`                                                                                          |
+| Execute the Python script          | `python Movie_Recommendation_System.py`                                                                  |
 
 
 
@@ -294,7 +294,7 @@ After obtaining the TMDB API and installing Node.js & React Native, follow these
 1. First, clone the repository using the `git clone` command in the terminal:
 
 ```bash
-git clone https://github.com/jagadeeshm007/Movie_Recommendation_Engine.git
+git clone https://github.com/jagadeeshm007/Movie_Recommendation_System.git
 ```
 
 2. Navigate to the folder `GUI/Movie_Recommendation_Search_App` using the following command in the terminal:
@@ -332,7 +332,7 @@ For complete documentation about my React Native application check my repository
 
 ### 🔗Python
 
-Additionally, you can try out the Python code in the GUI to test it using the `Movie_Recommendation_Engine.py` file in the GUI folder.
+Additionally, you can try out the Python code in the GUI to test it using the `Movie_Recommendation_System.py` file in the GUI folder.
 
 
 #### Conclusion
