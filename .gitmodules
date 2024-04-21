@@ -1,0 +1,3 @@
+[submodule "GUI/Movie_Recommendation_App"]
+	path = GUI/Movie_Recommendation_App
+	url = https://github.com/jagadeeshm007/Movie_Recommendation_Search_App.git
